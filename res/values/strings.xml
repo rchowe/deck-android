@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">The Deck</string>
+    <string name="card_title">Card Title</string>
+    <string name="card_text">Card Text</string>
+    <string name="card_flavortext">Card Flavor Text</string>
+    <string name="draw_card">Draw</string>
+    <string name="action_choose_cards">Choose Cards</string>
+    <string name="title_activity_card_selection">Select Cards</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
